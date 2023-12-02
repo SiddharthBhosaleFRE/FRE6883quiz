@@ -1,0 +1,2 @@
+symbol = MSFT minvalue = 339.79 2023-11-01
+symbol = MSFT maxvalue = 382.7 2023-11-28
